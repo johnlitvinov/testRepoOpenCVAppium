@@ -151,3 +151,10 @@ ivanlitvinau@Ivans-MacBook-Pro ~ %
 
 
 
+    
+пытался на разных версиях Node.js     
+
++ https://github.com/justadudewhohacks/opencv4nodejs/issues/806
+
+    
+    
