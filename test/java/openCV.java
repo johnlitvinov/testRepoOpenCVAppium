@@ -117,7 +117,37 @@ public class openCV  {
         MacBook Pro (14‑дюймовый, 2021 г.)
         Apple M1 Max
         Monterey Версия 12.6
+            
+            
+            
+            
+ при npm i -g opencv4nodejs 
+ 
+ 
+npm i -g opencv4nodejs
+npm ERR! code 1
+npm ERR! path /opt/homebrew/lib/node_modules/opencv4nodejs
+npm ERR! command failed
+npm ERR! command sh -c -- node ./install/install.js
+npm ERR! info install using lib dir: /opt/homebrew/lib/node_modules/opencv4nodejs/node_modules/opencv-build/opencv/build/lib
+npm ERR! /opt/homebrew/lib/node_modules/opencv4nodejs/install/install.js:37
+npm ERR!   throw new Error('library dir does not exist: ' + libDir)
+npm ERR!   ^
+npm ERR! 
+npm ERR! Error: library dir does not exist: /opt/homebrew/lib/node_modules/opencv4nodejs/node_modules/opencv-build/opencv/build/lib
+npm ERR!     at Object.<anonymous> (/opt/homebrew/lib/node_modules/opencv4nodejs/install/install.js:37:9)
+npm ERR!     at Module._compile (node:internal/modules/cjs/loader:1120:14)
+npm ERR!     at Module._extensions..js (node:internal/modules/cjs/loader:1174:10)
+npm ERR!     at Module.load (node:internal/modules/cjs/loader:998:32)
+npm ERR!     at Module._load (node:internal/modules/cjs/loader:839:12)
+npm ERR!     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+npm ERR!     at node:internal/main/run_main_module:17:47
+npm ERR! 
+npm ERR! Node.js v18.7.0
 
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /Users/ivanlitvinau/.npm/_logs/2022-10-11T15_29_05_334Z-debug-0.log
+ivanlitvinau@Ivans-MacBook-Pro ~ % 
 
 
 
